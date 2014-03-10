@@ -1,0 +1,35 @@
+;######  HQBS Hua Qiang Bei Electronics Market Notes  ######
+;###########################################################
+
+; ###### SEEED Studuio HQB Guide
+
+https://www.seeedstudio.com/blog/2013/09/03/shenzhen-map-for-makers/
+http://www.seeedstudio.com/document/pdf/Shenzhen%20Map%20for%20Makers.pdf
+
+http://haxlr8r.com/blog/hua-qiang-bei-map-for-makers
+
+; ###### IMAGE LINKS
+<img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/420/01-STREET-00-01.JPG">
+
+<center><a href="http://www.flickr.com/search/?q=01-STREET-00-01&amp;w=93152031@N07"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/420/01-STREET-00-01.JPG"></a></center>
+
+210 to 420 
+<center><strong>Inside 01</strong><br><a href="http://www.flickr.com/search/?q=01-INSIDE-01-01&amp;w=93152031@N07"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/01-INSIDE-01-01.JPG" /></a><br /><a href="http://www.flickr.com/search/?q=01-INSIDE-01-01&amp;w=93152031@N07">on flickr</a></center>
+
+; ###### Building Links
+<a href="http://oomlout.co.uk/pages/hqbs-huaqiangbeisystem-01"></a>
+
+; ###### Flickr Link
+SET
+http://www.flickr.com/photos/93152031@N07/sets/72157642132745743/
+
+; ###### GOOGLE MAPS LAYER
+
+Link:
+https://mapsengine.google.com/map/edit?mid=zrCAN2h8bd_E.kU_h6pcptCAE
+Embed:
+<iframe src="https://mapsengine.google.com/map/embed?mid=zrCAN2h8bd_E.kU_h6pcptCAE" width="640" height="480"></iframe>
+
+;###### Get Latitude and Longitude
+
+http://itouchmap.com/latlong.html
