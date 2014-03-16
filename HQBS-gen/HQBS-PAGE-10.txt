@@ -1,0 +1,101 @@
+
+
+<h3>HQBS - 10 - HQ Electronics World (LED Building)</h3>
+<center><a href="http://www.flickr.com/search/?q=HQBS-B10-STREET-00-01&amp;w=33504192@N00"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/420/HQBS-B10-STREET-00-01.JPG" /></a></center>
+<center><strong><a href="http://oomlout.co.uk/pages/hqbs-huaqiangbeisystem-main">(back to HQBS - Main)</a></strong></center>
+<p><strong>Description</strong></p>
+
+<p>This building is in flux. The ground floor of the southern building (closest to SEG) sells electronic components. The first floor has assembled electronic components (USB microscopes, manufactured LED products etc.). Floors 03-05 (and 01-05 in the north tower) are consumer electronics (Cameras, computers, tablets). However the sixth floor is a marvel of LED technology, from bare diodes to street lamps and bulbs. Top tip when purchasing high power LEDs; the retailers will want to show you that they work - the professionals bring sunglasses for this purpose.</p>
+<strong>Extra Info</strong><br>
+<table>
+<tr>
+<td><center><a href="https://www.google.com/maps/place/Huaqiang+Square/@22.5428076,114.0860578,18z/data=!3m1!4b1!4m2!3m1!1s0x3403f437a0362743:0xdd50a5087e3a5fbf">On Google Maps<br><b>(here)</b></a></center></td>
+<td><center><a href="http://haxlr8r.com/blog/hua-qiang-bei-map-for-makers">ID on HAXLR8R<br> <b>#7</b></a></center></td>
+<td><center><a href="http://www.seeedstudio.com/document/pdf/Shenzhen%20Map%20for%20Makers.pdf">ID on SEEED<br> <b>#5</b> (pdf)</a></center></td>
+</tr>
+</table>
+<p><strong>Floors</strong></p>
+<table>
+<tbody>
+<tr>
+<td>Floor</td>
+<td>Contents</td>
+<td>Note</td>
+</tr>
+<tr>
+<td>01</td>
+<td>South Side, Components, North Side Sunning</td>
+<td></td>
+</tr>
+
+<tr>
+<td>02</td>
+<td>South some components and little stalls, North Sunning</td>
+<td></td>
+</tr>
+
+<tr>
+<td>03</td>
+<td>Consumer Electronics</td>
+<td></td>
+</tr>
+
+<tr>
+<td>04</td>
+<td>Consumer Electronics (bit less professional than 3)</td>
+<td></td>
+</tr>
+
+<tr>
+<td>05</td>
+<td>Consumer Computers, South side some stalls, one section cleared out, some LEDs</td>
+<td></td>
+</tr>
+
+<tr>
+<td>06</td>
+<td>LEDs (mostly bulbs and high power)</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Photos</strong> (<a href="http://www.flickr.com/search/?q=HQBS-B10&w=33504192@N00">all building photos on flickr</a>)</p> 
+<table>
+<tr>
+<td>
+<div>
+<div style="width:270px;float:left"><center><strong>Street View</strong><br /><a href="http://www.flickr.com/search/?q=HQBS-B10-STREET-00-03&amp;w=33504192@N00"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/HQBS-B10-STREET-00-03.JPG" /></a><br /></center></div>
+
+<div style="width:270px;float:left"><center><strong>Floor 06 Floorplan </strong><br /><a href="http://www.flickr.com/search/?q=HQBS-B10-FLOORPLAN-06-01&amp;w=33504192@N00"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/HQBS-B10-FLOORPLAN-06-01.JPG" /></a><br /></center></div>
+
+
+<div style="width:270px;float:left"><center><strong>Floor 01 Inside </strong><br /><a href="http://www.flickr.com/search/?q=HQBS-B10-INSIDE-01-02&amp;w=33504192@N00"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/HQBS-B10-INSIDE-01-02.JPG" /></a><br /></center></div>
+
+
+<div style="width:270px;float:left"><center><strong>Floor 02 Inside </strong><br /><a href="http://www.flickr.com/search/?q=HQBS-B10-INSIDE-02-01&amp;w=33504192@N00"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/HQBS-B10-INSIDE-02-01.JPG" /></a><br /></center></div>
+
+<div style="width:270px;float:left"><center><strong>Floor 03 Inside </strong><br /><a href="http://www.flickr.com/search/?q=HQBS-B10-INSIDE-03-01&amp;w=33504192@N00"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/HQBS-B10-INSIDE-03-01.JPG" /></a><br /></center></div>
+
+<div style="width:270px;float:left"><center><strong>Floor 04 Inside </strong><br /><a href="http://www.flickr.com/search/?q=HQBS-B10-INSIDE-04-01&amp;w=33504192@N00"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/HQBS-B10-INSIDE-04-01.JPG" /></a><br /></center></div>
+
+<div style="width:270px;float:left"><center><strong>Floor 05 Inside </strong><br /><a href="http://www.flickr.com/search/?q=HQBS-B10-INSIDE-05-01&amp;w=33504192@N00"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/HQBS-B10-INSIDE-05-01.JPG" /></a><br /></center></div>
+<div style="width:270px;float:left"><center><strong>Floor 05 Inside </strong><br /><a href="http://www.flickr.com/search/?q=HQBS-B10-INSIDE-05-02&amp;w=33504192@N00"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/HQBS-B10-INSIDE-05-02.JPG" /></a><br /></center></div>
+
+<div style="width:270px;float:left"><center><strong>Floor 06 Inside </strong><br /><a href="http://www.flickr.com/search/?q=HQBS-B10-INSIDE-06-01&amp;w=33504192@N00"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/HQBS-B10-INSIDE-06-01.JPG" /></a><br /></center></div>
+
+
+
+
+
+
+
+
+
+</div>
+</td>
+</tr>
+</table>
+
+
+
+<br /><br /><center><strong>.:Want To Comment?:.</strong> <br /> .:Sorry comments aren't enabled, but please get in touch:. <br /> .: <strong> <a href="http://twitter.com/oomlout/">Twitter</a>    <a href="http://plus.google.com/+oomloutoomlout/">Google+</a>    <a href="http://facebook.com/oomlout.">Facebook</a>    <a href="http://oomlout.tumblr.com/">Tumblr</a>    <a href="mailto:formsubmission@oomlout.com">e-mail</a> :. </strong></center>

@@ -14,13 +14,14 @@ http://haxlr8r.com/blog/hua-qiang-bei-map-for-makers
 ; ###### IMAGE LINKS
 <img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/420/01-STREET-00-01.JPG">
 
-<center><a href="http://www.flickr.com/search/?q=01-STREET-00-01&amp;w=93152031@N07"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/420/01-STREET-00-01.JPG"></a></center>
+<center><a href="http://www.flickr.com/search/?w=93152031@N07&q=HQBS-B19-STALL-48-49-01"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/420/HQBS-B19-STALL-48-49-01.JPG"></a></center>
 
 210 to 420 
-<center><strong>Inside 01</strong><br><a href="http://www.flickr.com/search/?q=01-INSIDE-01-01&amp;w=93152031@N07"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/01-INSIDE-01-01.JPG" /></a><br /><a href="http://www.flickr.com/search/?q=01-INSIDE-01-01&amp;w=93152031@N07">on flickr</a></center>
+<center><strong>Inside 01</strong><br><a href="http://www.flickr.com/search/?q=HQBS-B01-INSIDE-01-01&amp;w=93152031@N07"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/01-INSIDE-01-01.JPG" /></a><br /><a href="http://www.flickr.com/search/?q=01-INSIDE-01-01&amp;w=93152031@N07">on flickr</a></center>
 
 ; ###### Building Links
 <a href="http://oomlout.co.uk/pages/hqbs-huaqiangbeisystem-01"></a>
+<a href="http://oomlout.co.uk/pages/hqbs-huaqiangbeisystem-01">HQBS-01</a>
 
 ; ###### Flickr Link
 SET

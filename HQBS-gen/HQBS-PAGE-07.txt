@@ -1,0 +1,88 @@
+
+
+<h3>HQBS - 07 - HQ Mart 01-03</h3>
+<center><a href="http://www.flickr.com/search/?q=HQBS-B07-STREET-00-01&amp;w=33504192@N00"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/420/HQBS-B07-STREET-00-01.JPG" /></a></center>
+<center><strong><a href="http://oomlout.co.uk/pages/hqbs-huaqiangbeisystem-main">(back to HQBS - Main)</a></strong></center>
+<p><strong>Description</strong></p>
+
+<p>The HQ 3 are a collection of three buildings. They are linked internally making them tricky to navigate. This is mostly because they have different floor heights, making it possible to go from floor 4 in one building to floor 6 in another without using any stairs. The lower floors are filled with electronic component stalls and the upper floors contain everything from used PC's to purchasable cash registers. (For the purposes of the HQBS, they have a single page but are buildings 07-09 on the map).</p>
+<strong>Extra Info</strong><br>
+<table>
+<tr>
+<td><center><a href="https://www.google.com/maps/place/Bldg+1,+Huaqiang+Property/@22.5409285,114.0861839,18z/data=!3m1!4b1!4m2!3m1!1s0x3403f4373ed1046d:0x18af88827ce6e1d6">On Google Maps<br><b>(here)</b></a></center></td>
+<td><center><a href="http://haxlr8r.com/blog/hua-qiang-bei-map-for-makers">ID on HAXLR8R<br> <b>#5</b></a></center></td>
+<td><center><a href="http://www.seeedstudio.com/document/pdf/Shenzhen%20Map%20for%20Makers.pdf">ID on SEEED<br> <b>#6</b> (pdf)</a></center></td>
+</tr>
+</table>
+<p><strong>Floors</strong></p>
+<table>
+<tbody>
+<tr>
+<td>Floor</td>
+<td>Contents</td>
+<td>Note</td>
+</tr>
+<tr>
+<td>01</td>
+<td>Components (little booths staked high) (1-3 joined)</td>
+<td></td>
+</tr>
+
+<tr>
+<td>02</td>
+<td>Chips some components, not very busy</td>
+<td></td>
+</tr>
+
+<tr>
+<td>03</td>
+<td>Computer accessories (old printers, consumables, printers, computers)</td>
+<td></td>
+</tr>
+
+<tr>
+<td>04</td>
+<td>Laptops, New & used, repair, LCD Panels, Label Printers</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Photos</strong> (<a href="http://www.flickr.com/search/?q=HQBS-B07&w=33504192@N00">all building photos on flickr</a>)</p> 
+<table>
+<tr>
+<td>
+<div>
+<div style="width:270px;float:left"><center><strong>Street View</strong><br /><a href="http://www.flickr.com/search/?q=HQBS-B07-STREET-00-02&amp;w=33504192@N00"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/HQBS-B07-STREET-00-02.JPG" /></a><br /></center></div>
+
+<div style="width:270px;float:left"><center><strong>Floor 04 Floorplan </strong><br /><a href="http://www.flickr.com/search/?q=HQBS-B07-FLOORPLAN-04-01&amp;w=33504192@N00"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/HQBS-B07-FLOORPLAN-04-01.JPG" /></a><br /></center></div>
+
+
+<div style="width:270px;float:left"><center><strong>Floor 01 Inside </strong><br /><a href="http://www.flickr.com/search/?q=HQBS-B07-INSIDE-01-01&amp;w=33504192@N00"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/HQBS-B07-INSIDE-01-01.JPG" /></a><br /></center></div>
+
+
+<div style="width:270px;float:left"><center><strong>Floor 02 Inside </strong><br /><a href="http://www.flickr.com/search/?q=HQBS-B07-INSIDE-02-01&amp;w=33504192@N00"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/HQBS-B07-INSIDE-02-01.JPG" /></a><br /></center></div>
+
+<div style="width:270px;float:left"><center><strong>Floor 03 Inside </strong><br /><a href="http://www.flickr.com/search/?q=HQBS-B07-INSIDE-03-01&amp;w=33504192@N00"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/HQBS-B07-INSIDE-03-01.JPG" /></a><br /></center></div>
+
+<div style="width:270px;float:left"><center><strong>Floor 04 Inside </strong><br /><a href="http://www.flickr.com/search/?q=HQBS-B07-INSIDE-04-01&amp;w=33504192@N00"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/HQBS-B07-INSIDE-04-01.JPG" /></a><br /></center></div>
+<div style="width:270px;float:left"><center><strong>Floor 04 Inside </strong><br /><a href="http://www.flickr.com/search/?q=HQBS-B07-INSIDE-04-02&amp;w=33504192@N00"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/HQBS-B07-INSIDE-04-02.JPG" /></a><br /></center></div>
+<div style="width:270px;float:left"><center><strong>Floor 04 Inside </strong><br /><a href="http://www.flickr.com/search/?q=HQBS-B07-INSIDE-04-03&amp;w=33504192@N00"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/HQBS-B07-INSIDE-04-03.JPG" /></a><br /></center></div>
+
+
+
+
+
+
+
+
+
+
+
+</div>
+</td>
+</tr>
+</table>
+
+
+
+<br /><br /><center><strong>.:Want To Comment?:.</strong> <br /> .:Sorry comments aren't enabled, but please get in touch:. <br /> .: <strong> <a href="http://twitter.com/oomlout/">Twitter</a>    <a href="http://plus.google.com/+oomloutoomlout/">Google+</a>    <a href="http://facebook.com/oomlout.">Facebook</a>    <a href="http://oomlout.tumblr.com/">Tumblr</a>    <a href="mailto:formsubmission@oomlout.com">e-mail</a> :. </strong></center>
