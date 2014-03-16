@@ -1,0 +1,152 @@
+;###### HQBS Page Notes and Template  ;######
+;############################################
+;###### 	%NUM% 				- 	Building Number
+;###### 	%NAME%				-	Building Name
+;###### 	%GOOGLEMAPLINK%		-	Map Link
+;###### 	%DESCRIPTION%		-	Description
+;######		%FLOOR##%			-	What can be found on each floor
+;###### HQBS Page Title
+;###### HQBS - ## - %NAME%
+;###### HQBS Page Template
+
+<h3>HQBS - %NUM% - %NAME%</h3>
+<center><a href="http://www.flickr.com/search/?q=%NUM%-STREET-00-01&amp;w=93152031@N07"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/420/%NUM%-STREET-00-01.JPG" /></a></center>
+<p><strong>Description</strong></p>
+<p>%DESCRIPTION%</p>
+<strong>Extra Info</strong><br>
+<table>
+<tr>
+<td><center><a href="%GOOGLEMAPLINK%">On Google Maps<br><b>(here)</b></a></center></td>
+;@@@@@@%HAXL8%;~~~~~~<td><center><a href="http://haxlr8r.com/blog/hua-qiang-bei-map-for-makers">ID on HAXLR8R<br> <b>#%HAXL8%</b></a></center></td>
+;@@@@@@%SEEED%;~~~~~~<td><center><a href="http://www.seeedstudio.com/document/pdf/Shenzhen%20Map%20for%20Makers.pdf">ID on SEEED<br> <b>#%SEEED%</b> (pdf)</a></center></td>
+</tr>
+</table>
+<p><strong>Floors</strong></p>
+<table>
+<tbody>
+<tr>
+<td>Floor</td>
+<td>Contents</td>
+<td>Note</td>
+</tr>
+<tr>
+<td>01</td>
+<td>%FLOOR01%</td>
+<td>%NOTE01%</td>
+</tr>
+;@@@@@@%FLOOR02%;~~~~~~
+;@@@@@@%FLOOR02%;~~~~~~<tr>
+;@@@@@@%FLOOR02%;~~~~~~<td>02</td>
+;@@@@@@%FLOOR02%;~~~~~~<td>%FLOOR02%</td>
+;@@@@@@%FLOOR02%;~~~~~~<td>%NOTE02%</td>
+;@@@@@@%FLOOR02%;~~~~~~</tr>
+;@@@@@@%FLOOR03%;~~~~~~
+;@@@@@@%FLOOR03%;~~~~~~<tr>
+;@@@@@@%FLOOR03%;~~~~~~<td>03</td>
+;@@@@@@%FLOOR03%;~~~~~~<td>%FLOOR03%</td>
+;@@@@@@%FLOOR03%;~~~~~~<td>%NOTE03%</td>
+;@@@@@@%FLOOR03%;~~~~~~</tr>
+;@@@@@@%FLOOR04%;~~~~~~
+;@@@@@@%FLOOR04%;~~~~~~<tr>
+;@@@@@@%FLOOR04%;~~~~~~<td>04</td>
+;@@@@@@%FLOOR04%;~~~~~~<td>%FLOOR04%</td>
+;@@@@@@%FLOOR04%;~~~~~~<td>%NOTE04%</td>
+;@@@@@@%FLOOR04%;~~~~~~</tr>
+;@@@@@@%FLOOR05%;~~~~~~
+;@@@@@@%FLOOR05%;~~~~~~<tr>
+;@@@@@@%FLOOR05%;~~~~~~<td>05</td>
+;@@@@@@%FLOOR05%;~~~~~~<td>%FLOOR05%</td>
+;@@@@@@%FLOOR05%;~~~~~~<td>%NOTE05%</td>
+;@@@@@@%FLOOR05%;~~~~~~</tr>
+;@@@@@@%FLOOR06%;~~~~~~
+;@@@@@@%FLOOR06%;~~~~~~<tr>
+;@@@@@@%FLOOR06%;~~~~~~<td>06</td>
+;@@@@@@%FLOOR06%;~~~~~~<td>%FLOOR06%</td>
+;@@@@@@%FLOOR06%;~~~~~~<td>%NOTE06%</td>
+;@@@@@@%FLOOR06%;~~~~~~</tr>
+;@@@@@@%FLOOR07%;~~~~~~
+;@@@@@@%FLOOR07%;~~~~~~<tr>
+;@@@@@@%FLOOR07%;~~~~~~<td>07</td>
+;@@@@@@%FLOOR07%;~~~~~~<td>%FLOOR07%</td>
+;@@@@@@%FLOOR07%;~~~~~~<td>%NOTE07%</td>
+;@@@@@@%FLOOR07%;~~~~~~</tr>
+;@@@@@@%FLOOR08%;~~~~~~
+;@@@@@@%FLOOR08%;~~~~~~<tr>
+;@@@@@@%FLOOR08%;~~~~~~<td>08</td>
+;@@@@@@%FLOOR08%;~~~~~~<td>%FLOOR08%</td>
+;@@@@@@%FLOOR08%;~~~~~~<td>%NOTE08%</td>
+;@@@@@@%FLOOR08%;~~~~~~</tr>
+;@@@@@@%FLOOR09%;~~~~~~
+;@@@@@@%FLOOR09%;~~~~~~<tr>
+;@@@@@@%FLOOR09%;~~~~~~<td>09</td>
+;@@@@@@%FLOOR09%;~~~~~~<td>%FLOOR09%</td>
+;@@@@@@%FLOOR09%;~~~~~~<td>%NOTE09%</td>
+;@@@@@@%FLOOR09%;~~~~~~</tr>
+;@@@@@@%FLOOR09%;~~~~~~
+</tbody>
+</table>
+<p><strong>Photos</strong> (click to view ful res on flickr)</p> 
+<table>
+<tbody>
+;@@@@@@%FLOOR01%;~~~~~~<tr>
+;@@@@@@%FLOOR01%;~~~~~~<td><center><strong>Floor 01 Inside </strong><br /><a href="http://www.flickr.com/search/?q=%NUM%-INSIDE-01-01&amp;w=93152031@N07"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/%NUM%-INSIDE-01-01.JPG" /></a><br /></center></td>
+;@@@@@@%FLOOR01%;~~~~~~<td><center><strong>Floor 01 Inside </strong><br /><a href="http://www.flickr.com/search/?q=%NUM%-INSIDE-01-02&amp;w=93152031@N07"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/%NUM%-INSIDE-01-02.JPG" /></a><br /></center></td>
+;@@@@@@%FLOOR01%;~~~~~~</tr>
+;@@@@@@%FLOOR02%;~~~~~~
+;@@@@@@%FLOOR02%;~~~~~~<tr>
+;@@@@@@%FLOOR02%;~~~~~~<td><center><strong>Floor 02 Inside </strong><br /><a href="http://www.flickr.com/search/?q=%NUM%-INSIDE-02-01&amp;w=93152031@N07"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/%NUM%-INSIDE-02-01.JPG" /></a><br /></center></td>
+;@@@@@@%FLOOR02%;~~~~~~<td><center><strong>Floor 02 Inside </strong><br /><a href="http://www.flickr.com/search/?q=%NUM%-INSIDE-02-02&amp;w=93152031@N07"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/%NUM%-INSIDE-02-02.JPG" /></a><br /></center></td>
+;@@@@@@%FLOOR02%;~~~~~~</tr>
+;@@@@@@%FLOOR03%;~~~~~~
+;@@@@@@%FLOOR03%;~~~~~~<tr>
+;@@@@@@%FLOOR03%;~~~~~~<td><center><strong>Floor 03 Inside </strong><br /><a href="http://www.flickr.com/search/?q=%NUM%-INSIDE-03-01&amp;w=93152031@N07"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/%NUM%-INSIDE-03-01.JPG" /></a><br /></center></td>
+;@@@@@@%FLOOR03%;~~~~~~<td><center><strong>Floor 03 Inside </strong><br /><a href="http://www.flickr.com/search/?q=%NUM%-INSIDE-03-02&amp;w=93152031@N07"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/%NUM%-INSIDE-03-02.JPG" /></a><br /></center></td>
+;@@@@@@%FLOOR03%;~~~~~~</tr>
+;@@@@@@%FLOOR04%;~~~~~~
+;@@@@@@%FLOOR04%;~~~~~~<tr>
+;@@@@@@%FLOOR04%;~~~~~~<td><center><strong>Floor 04 Inside </strong><br /><a href="http://www.flickr.com/search/?q=%NUM%-INSIDE-04-01&amp;w=93152031@N07"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/%NUM%-INSIDE-04-01.JPG" /></a><br /></center></td>
+;@@@@@@%FLOOR04%;~~~~~~<td><center><strong>Floor 04 Inside </strong><br /><a href="http://www.flickr.com/search/?q=%NUM%-INSIDE-04-02&amp;w=93152031@N07"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/%NUM%-INSIDE-04-02.JPG" /></a><br /></center></td>
+;@@@@@@%FLOOR04%;~~~~~~</tr>
+;@@@@@@%FLOOR05%;~~~~~~
+;@@@@@@%FLOOR05%;~~~~~~<tr>
+;@@@@@@%FLOOR05%;~~~~~~<td><center><strong>Floor 05 Inside </strong><br /><a href="http://www.flickr.com/search/?q=%NUM%-INSIDE-05-01&amp;w=93152031@N07"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/%NUM%-INSIDE-05-01.JPG" /></a><br /></center></td>
+;@@@@@@%FLOOR05%;~~~~~~<td><center><strong>Floor 05 Inside </strong><br /><a href="http://www.flickr.com/search/?q=%NUM%-INSIDE-05-02&amp;w=93152031@N07"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/%NUM%-INSIDE-05-02.JPG" /></a><br /></center></td>
+;@@@@@@%FLOOR05%;~~~~~~</tr>
+;@@@@@@%FLOOR06%;~~~~~~
+;@@@@@@%FLOOR06%;~~~~~~<tr>
+;@@@@@@%FLOOR06%;~~~~~~<td><center><strong>Floor 06 Inside </strong><br /><a href="http://www.flickr.com/search/?q=%NUM%-INSIDE-06-01&amp;w=93152031@N07"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/%NUM%-INSIDE-06-01.JPG" /></a><br /></center></td>
+;@@@@@@%FLOOR06%;~~~~~~<td><center><strong>Floor 06 Inside </strong><br /><a href="http://www.flickr.com/search/?q=%NUM%-INSIDE-06-02&amp;w=93152031@N07"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/%NUM%-INSIDE-06-02.JPG" /></a><br /></center></td>
+;@@@@@@%FLOOR06%;~~~~~~</tr>
+;@@@@@@%FLOOR07%;~~~~~~
+;@@@@@@%FLOOR07%;~~~~~~<tr>
+;@@@@@@%FLOOR07%;~~~~~~<td><center><strong>Floor 07 Inside </strong><br /><a href="http://www.flickr.com/search/?q=%NUM%-INSIDE-07-01&amp;w=93152031@N07"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/%NUM%-INSIDE-07-01.JPG" /></a><br /></center></td>
+;@@@@@@%FLOOR07%;~~~~~~<td><center><strong>Floor 07 Inside </strong><br /><a href="http://www.flickr.com/search/?q=%NUM%-INSIDE-07-02&amp;w=93152031@N07"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/%NUM%-INSIDE-07-02.JPG" /></a><br /></center></td>
+;@@@@@@%FLOOR07%;~~~~~~</tr>
+;@@@@@@%FLOOR08%;~~~~~~
+;@@@@@@%FLOOR08%;~~~~~~<tr>
+;@@@@@@%FLOOR08%;~~~~~~<td><center><strong>Floor 08 Inside </strong><br /><a href="http://www.flickr.com/search/?q=%NUM%-INSIDE-08-01&amp;w=93152031@N07"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/%NUM%-INSIDE-08-01.JPG" /></a><br /></center></td>
+;@@@@@@%FLOOR08%;~~~~~~<td><center><strong>Floor 08 Inside </strong><br /><a href="http://www.flickr.com/search/?q=%NUM%-INSIDE-08-02&amp;w=93152031@N07"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/%NUM%-INSIDE-08-02.JPG" /></a><br /></center></td>
+;@@@@@@%FLOOR08%;~~~~~~</tr>
+;@@@@@@%FLOOR09%;~~~~~~
+;@@@@@@%FLOOR09%;~~~~~~<tr>
+;@@@@@@%FLOOR09%;~~~~~~<td><center><strong>Floor 09 Inside </strong><br /><a href="http://www.flickr.com/search/?q=%NUM%-INSIDE-09-01&amp;w=93152031@N07"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/%NUM%-INSIDE-09-01.JPG" /></a><br /></center></td>
+;@@@@@@%FLOOR09%;~~~~~~<td><center><strong>Floor 09 Inside </strong><br /><a href="http://www.flickr.com/search/?q=%NUM%-INSIDE-09-02&amp;w=93152031@N07"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/%NUM%-INSIDE-09-02.JPG" /></a><br /></center></td>
+;@@@@@@%FLOOR09%;~~~~~~</tr>
+</tbody>
+</table>
+<table>
+<tr>
+<td>
+<div>
+;''''''%NUM%-INSIDE-01-01.jpg;~~~~~~<div style="width:270px;float:left;background:red"><center><strong>Floor 01 Inside </strong><br /><a href="http://www.flickr.com/search/?q=%NUM%-INSIDE-01-01&amp;w=93152031@N07"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/%NUM%-INSIDE-01-01.JPG" /></a><br /></center></div>
+;''''''%NUM%-INSIDE-01-02.jpg;~~~~~~<div style="width:270px;float:left;background:blue"><center><strong>Floor 01 Inside </strong><br /><a href="http://www.flickr.com/search/?q=%NUM%-INSIDE-01-02&amp;w=93152031@N07"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/%NUM%-INSIDE-01-02.JPG" /></a><br /></center></div>
+;''''''%NUM%-INSIDE-01-03.jpg;~~~~~~<div style="width:260px;float:left;background:pink"><center><strong>Floor 04 Inside </strong><br /><a href="http://www.flickr.com/search/?q=%NUM%-INSIDE-04-01&amp;w=93152031@N07"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/%NUM%-INSIDE-04-01.JPG" /></a><br /></center></div>
+;''''''%NUM%-PANO-07-01.jpg;~~~~~~<div style="width:260px;float:left;background:yellow"><center><strong>Floor 07 Pano </strong><br /><a href="http://www.flickr.com/search/?q=%NUM%-INSIDE-07-01&amp;w=93152031@N07"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/%NUM%-PANO-07-01.JPG" /></a><br /></center></div>
+</div>
+</td>
+</tr>
+</table>
+
+
+
+<br /><br /><center><strong>.:Want To Comment?:.</strong> <br /> .:Sorry comments aren't enabled, but please get in touch:. <br /> .: <strong> <a href="http://twitter.com/oomlout/">Twitter</a>    <a href="http://plus.google.com/+oomloutoomlout/">Google+</a>    <a href="http://facebook.com/oomlout.">Facebook</a>    <a href="http://oomlout.tumblr.com/">Tumblr</a>    <a href="mailto:formsubmission@oomlout.com">e-mail</a> :. </strong></center>

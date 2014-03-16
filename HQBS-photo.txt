@@ -1,0 +1,11 @@
+;''''''%NUM%-INSIDE-FF-YY.jpg;~~~~~~<div style="width:270px;float:left;background:red"><center><strong>Floor YY Inside </strong><br /><a href="http://www.flickr.com/search/?q=%NUM%-INSIDE-FF-YY&amp;w=93152031@N07"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/%NUM%-INSIDE-FF-YY.JPG" /></a><br /></center></div>
+
+
+
+
+;###### Floor FF
+;''''''%NUM%-INSIDE-01-01.jpg;~~~~~~<div style="width:270px;float:left;background:red"><center><strong>Floor 01 Inside </strong><br /><a href="http://www.flickr.com/search/?q=%NUM%-INSIDE-01-01&amp;w=93152031@N07"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/%NUM%-INSIDE-01-01.JPG" /></a><br /></center></div>
+;''''''%NUM%-INSIDE-01-02.jpg;~~~~~~<div style="width:270px;float:left;background:red"><center><strong>Floor 01 Inside </strong><br /><a href="http://www.flickr.com/search/?q=%NUM%-INSIDE-01-02&amp;w=93152031@N07"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/%NUM%-INSIDE-01-02.JPG" /></a><br /></center></div>
+;''''''%NUM%-INSIDE-01-03.jpg;~~~~~~<div style="width:270px;float:left;background:red"><center><strong>Floor 01 Inside </strong><br /><a href="http://www.flickr.com/search/?q=%NUM%-INSIDE-01-03&amp;w=93152031@N07"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/%NUM%-INSIDE-01-03.JPG" /></a><br /></center></div>
+;''''''%NUM%-INSIDE-01-04.jpg;~~~~~~<div style="width:270px;float:left;background:red"><center><strong>Floor 01 Inside </strong><br /><a href="http://www.flickr.com/search/?q=%NUM%-INSIDE-01-04&amp;w=93152031@N07"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/%NUM%-INSIDE-01-04.JPG" /></a><br /></center></div>
+;''''''%NUM%-FLOORPLAN-01-01.jpg;~~~~~~<div style="width:270px;float:left;background:red"><center><strong>Floor 01 Floorplan </strong><br /><a href="http://www.flickr.com/search/?q=%NUM%-FLOORPLAN-01-01&amp;w=93152031@N07"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/%NUM%-FLOORPLAN-01-01.JPG" /></a><br /></center></div>

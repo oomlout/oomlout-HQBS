@@ -1,0 +1,185 @@
+;###### HQBS Page Notes and Template  ;######
+;############################################
+;###### 	%NUM% 				- 	Building Number
+;###### 	%NAME%				-	Building Name
+;###### 	%GOOGLEMAPLINK%		-	Map Link
+;###### 	%DESCRIPTION%		-	Description
+;######		%FLOOR##%			-	What can be found on each floor
+;###### HQBS Page Title
+;###### HQBS - ## - %NAME%
+;###### HQBS Page Template
+
+<h3>HQBS - %NUM% - %NAME%</h3>
+<center><a href="http://www.flickr.com/search/?q=%NUM%-STREET-00-01&amp;w=93152031@N07"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/420/%NUM%-STREET-00-01.JPG" /></a></center>
+<p><strong>Description</strong></p>
+<p>%DESCRIPTION%</p>
+<strong>Extra Info</strong><br>
+<table>
+<tr>
+<td><center><a href="%GOOGLEMAPLINK%">On Google Maps<br><b>(here)</b></a></center></td>
+;@@@@@@%HAXL8%;~~~~~~<td><center><a href="http://haxlr8r.com/blog/hua-qiang-bei-map-for-makers">ID on HAXLR8R<br> <b>#%HAXL8%</b></a></center></td>
+;@@@@@@%SEEED%;~~~~~~<td><center><a href="http://www.seeedstudio.com/document/pdf/Shenzhen%20Map%20for%20Makers.pdf">ID on SEEED<br> <b>#%SEEED%</b> (pdf)</a></center></td>
+</tr>
+</table>
+<p><strong>Floors</strong></p>
+<table>
+<tbody>
+<tr>
+<td>Floor</td>
+<td>Contents</td>
+<td>Note</td>
+</tr>
+<tr>
+<td>01</td>
+<td>%FLOOR01%</td>
+<td>%NOTE01%</td>
+</tr>
+;@@@@@@%FLOOR02%;~~~~~~
+;@@@@@@%FLOOR02%;~~~~~~<tr>
+;@@@@@@%FLOOR02%;~~~~~~<td>02</td>
+;@@@@@@%FLOOR02%;~~~~~~<td>%FLOOR02%</td>
+;@@@@@@%FLOOR02%;~~~~~~<td>%NOTE02%</td>
+;@@@@@@%FLOOR02%;~~~~~~</tr>
+;@@@@@@%FLOOR03%;~~~~~~
+;@@@@@@%FLOOR03%;~~~~~~<tr>
+;@@@@@@%FLOOR03%;~~~~~~<td>03</td>
+;@@@@@@%FLOOR03%;~~~~~~<td>%FLOOR03%</td>
+;@@@@@@%FLOOR03%;~~~~~~<td>%NOTE03%</td>
+;@@@@@@%FLOOR03%;~~~~~~</tr>
+;@@@@@@%FLOOR04%;~~~~~~
+;@@@@@@%FLOOR04%;~~~~~~<tr>
+;@@@@@@%FLOOR04%;~~~~~~<td>04</td>
+;@@@@@@%FLOOR04%;~~~~~~<td>%FLOOR04%</td>
+;@@@@@@%FLOOR04%;~~~~~~<td>%NOTE04%</td>
+;@@@@@@%FLOOR04%;~~~~~~</tr>
+;@@@@@@%FLOOR05%;~~~~~~
+;@@@@@@%FLOOR05%;~~~~~~<tr>
+;@@@@@@%FLOOR05%;~~~~~~<td>05</td>
+;@@@@@@%FLOOR05%;~~~~~~<td>%FLOOR05%</td>
+;@@@@@@%FLOOR05%;~~~~~~<td>%NOTE05%</td>
+;@@@@@@%FLOOR05%;~~~~~~</tr>
+;@@@@@@%FLOOR06%;~~~~~~
+;@@@@@@%FLOOR06%;~~~~~~<tr>
+;@@@@@@%FLOOR06%;~~~~~~<td>06</td>
+;@@@@@@%FLOOR06%;~~~~~~<td>%FLOOR06%</td>
+;@@@@@@%FLOOR06%;~~~~~~<td>%NOTE06%</td>
+;@@@@@@%FLOOR06%;~~~~~~</tr>
+;@@@@@@%FLOOR07%;~~~~~~
+;@@@@@@%FLOOR07%;~~~~~~<tr>
+;@@@@@@%FLOOR07%;~~~~~~<td>07</td>
+;@@@@@@%FLOOR07%;~~~~~~<td>%FLOOR07%</td>
+;@@@@@@%FLOOR07%;~~~~~~<td>%NOTE07%</td>
+;@@@@@@%FLOOR07%;~~~~~~</tr>
+;@@@@@@%FLOOR08%;~~~~~~
+;@@@@@@%FLOOR08%;~~~~~~<tr>
+;@@@@@@%FLOOR08%;~~~~~~<td>08</td>
+;@@@@@@%FLOOR08%;~~~~~~<td>%FLOOR08%</td>
+;@@@@@@%FLOOR08%;~~~~~~<td>%NOTE08%</td>
+;@@@@@@%FLOOR08%;~~~~~~</tr>
+;@@@@@@%FLOOR09%;~~~~~~
+;@@@@@@%FLOOR09%;~~~~~~<tr>
+;@@@@@@%FLOOR09%;~~~~~~<td>09</td>
+;@@@@@@%FLOOR09%;~~~~~~<td>%FLOOR09%</td>
+;@@@@@@%FLOOR09%;~~~~~~<td>%NOTE09%</td>
+;@@@@@@%FLOOR09%;~~~~~~</tr>
+;@@@@@@%FLOOR09%;~~~~~~
+</tbody>
+</table>
+<p><strong>Photos</strong> (click to view ful res on flickr)</p> 
+<table>
+<tr>
+<td>
+<div>
+;''''''%NUM%-STREET-00-02.jpg;~~~~~~<div style="width:270px;float:left"><center><strong>Street View</strong><br /><a href="http://www.flickr.com/search/?q=%NUM%-STREET-00-02&amp;w=93152031@N07"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/%NUM%-STREET-00-02.JPG" /></a><br /></center></div>
+;''''''%NUM%-STREET-00-03.jpg;~~~~~~<div style="width:270px;float:left"><center><strong>Street View</strong><br /><a href="http://www.flickr.com/search/?q=%NUM%-STREET-00-03&amp;w=93152031@N07"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/%NUM%-STREET-00-03.JPG" /></a><br /></center></div>
+
+;###### Floorplan
+;''''''%NUM%-FLOORPLAN-01-01.jpg;~~~~~~<div style="width:270px;float:left"><center><strong>Floor 01 Floorplan </strong><br /><a href="http://www.flickr.com/search/?q=%NUM%-FLOORPLAN-01-01&amp;w=93152031@N07"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/%NUM%-FLOORPLAN-01-01.JPG" /></a><br /></center></div>
+;''''''%NUM%-FLOORPLAN-02-01.jpg;~~~~~~<div style="width:270px;float:left"><center><strong>Floor 02 Floorplan </strong><br /><a href="http://www.flickr.com/search/?q=%NUM%-FLOORPLAN-02-01&amp;w=93152031@N07"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/%NUM%-FLOORPLAN-02-01.JPG" /></a><br /></center></div>
+;''''''%NUM%-FLOORPLAN-03-01.jpg;~~~~~~<div style="width:270px;float:left"><center><strong>Floor 03 Floorplan </strong><br /><a href="http://www.flickr.com/search/?q=%NUM%-FLOORPLAN-03-01&amp;w=93152031@N07"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/%NUM%-FLOORPLAN-03-01.JPG" /></a><br /></center></div>
+;''''''%NUM%-FLOORPLAN-04-01.jpg;~~~~~~<div style="width:270px;float:left"><center><strong>Floor 04 Floorplan </strong><br /><a href="http://www.flickr.com/search/?q=%NUM%-FLOORPLAN-04-01&amp;w=93152031@N07"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/%NUM%-FLOORPLAN-04-01.JPG" /></a><br /></center></div>
+;''''''%NUM%-FLOORPLAN-05-01.jpg;~~~~~~<div style="width:270px;float:left"><center><strong>Floor 05 Floorplan </strong><br /><a href="http://www.flickr.com/search/?q=%NUM%-FLOORPLAN-05-01&amp;w=93152031@N07"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/%NUM%-FLOORPLAN-05-01.JPG" /></a><br /></center></div>
+;''''''%NUM%-FLOORPLAN-06-01.jpg;~~~~~~<div style="width:270px;float:left"><center><strong>Floor 06 Floorplan </strong><br /><a href="http://www.flickr.com/search/?q=%NUM%-FLOORPLAN-06-01&amp;w=93152031@N07"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/%NUM%-FLOORPLAN-06-01.JPG" /></a><br /></center></div>
+;''''''%NUM%-FLOORPLAN-07-01.jpg;~~~~~~<div style="width:270px;float:left"><center><strong>Floor 07 Floorplan </strong><br /><a href="http://www.flickr.com/search/?q=%NUM%-FLOORPLAN-07-01&amp;w=93152031@N07"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/%NUM%-FLOORPLAN-07-01.JPG" /></a><br /></center></div>
+;''''''%NUM%-FLOORPLAN-08-01.jpg;~~~~~~<div style="width:270px;float:left"><center><strong>Floor 08 Floorplan </strong><br /><a href="http://www.flickr.com/search/?q=%NUM%-FLOORPLAN-08-01&amp;w=93152031@N07"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/%NUM%-FLOORPLAN-08-01.JPG" /></a><br /></center></div>
+;''''''%NUM%-FLOORPLAN-09-01.jpg;~~~~~~<div style="width:270px;float:left"><center><strong>Floor 09 Floorplan </strong><br /><a href="http://www.flickr.com/search/?q=%NUM%-FLOORPLAN-09-01&amp;w=93152031@N07"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/%NUM%-FLOORPLAN-09-01.JPG" /></a><br /></center></div>
+
+;###### SIGN
+;''''''%NUM%-SIGN-01-01.jpg;~~~~~~<div style="width:270px;float:left"><center><strong>Floor 01 Sign </strong><br /><a href="http://www.flickr.com/search/?q=%NUM%-SIGN-01-01&amp;w=93152031@N07"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/%NUM%-SIGN-01-01.JPG" /></a><br /></center></div>
+;''''''%NUM%-SIGN-02-01.jpg;~~~~~~<div style="width:270px;float:left"><center><strong>Floor 02 Sign </strong><br /><a href="http://www.flickr.com/search/?q=%NUM%-SIGN-02-01&amp;w=93152031@N07"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/%NUM%-SIGN-02-01.JPG" /></a><br /></center></div>
+;''''''%NUM%-SIGN-03-01.jpg;~~~~~~<div style="width:270px;float:left"><center><strong>Floor 03 Sign </strong><br /><a href="http://www.flickr.com/search/?q=%NUM%-SIGN-03-01&amp;w=93152031@N07"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/%NUM%-SIGN-03-01.JPG" /></a><br /></center></div>
+;''''''%NUM%-SIGN-04-01.jpg;~~~~~~<div style="width:270px;float:left"><center><strong>Floor 04 Sign </strong><br /><a href="http://www.flickr.com/search/?q=%NUM%-SIGN-04-01&amp;w=93152031@N07"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/%NUM%-SIGN-04-01.JPG" /></a><br /></center></div>
+;''''''%NUM%-SIGN-05-01.jpg;~~~~~~<div style="width:270px;float:left"><center><strong>Floor 05 Sign </strong><br /><a href="http://www.flickr.com/search/?q=%NUM%-SIGN-05-01&amp;w=93152031@N07"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/%NUM%-SIGN-05-01.JPG" /></a><br /></center></div>
+;''''''%NUM%-SIGN-06-01.jpg;~~~~~~<div style="width:270px;float:left"><center><strong>Floor 06 Sign </strong><br /><a href="http://www.flickr.com/search/?q=%NUM%-SIGN-06-01&amp;w=93152031@N07"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/%NUM%-SIGN-06-01.JPG" /></a><br /></center></div>
+;''''''%NUM%-SIGN-07-01.jpg;~~~~~~<div style="width:270px;float:left"><center><strong>Floor 07 Sign </strong><br /><a href="http://www.flickr.com/search/?q=%NUM%-SIGN-07-01&amp;w=93152031@N07"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/%NUM%-SIGN-07-01.JPG" /></a><br /></center></div>
+;''''''%NUM%-SIGN-08-01.jpg;~~~~~~<div style="width:270px;float:left"><center><strong>Floor 08 Sign </strong><br /><a href="http://www.flickr.com/search/?q=%NUM%-SIGN-08-01&amp;w=93152031@N07"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/%NUM%-SIGN-08-01.JPG" /></a><br /></center></div>
+;''''''%NUM%-SIGN-09-01.jpg;~~~~~~<div style="width:270px;float:left"><center><strong>Floor 09 Sign </strong><br /><a href="http://www.flickr.com/search/?q=%NUM%-SIGN-09-01&amp;w=93152031@N07"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/%NUM%-SIGN-09-01.JPG" /></a><br /></center></div>
+
+;###### Floor 01
+;''''''%NUM%-INSIDE-01-01.jpg;~~~~~~<div style="width:270px;float:left"><center><strong>Floor 01 Inside </strong><br /><a href="http://www.flickr.com/search/?q=%NUM%-INSIDE-01-01&amp;w=93152031@N07"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/%NUM%-INSIDE-01-01.JPG" /></a><br /></center></div>
+;''''''%NUM%-INSIDE-01-02.jpg;~~~~~~<div style="width:270px;float:left"><center><strong>Floor 01 Inside </strong><br /><a href="http://www.flickr.com/search/?q=%NUM%-INSIDE-01-02&amp;w=93152031@N07"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/%NUM%-INSIDE-01-02.JPG" /></a><br /></center></div>
+;''''''%NUM%-INSIDE-01-03.jpg;~~~~~~<div style="width:270px;float:left"><center><strong>Floor 01 Inside </strong><br /><a href="http://www.flickr.com/search/?q=%NUM%-INSIDE-01-03&amp;w=93152031@N07"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/%NUM%-INSIDE-01-03.JPG" /></a><br /></center></div>
+;''''''%NUM%-INSIDE-01-04.jpg;~~~~~~<div style="width:270px;float:left"><center><strong>Floor 01 Inside </strong><br /><a href="http://www.flickr.com/search/?q=%NUM%-INSIDE-01-04&amp;w=93152031@N07"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/%NUM%-INSIDE-01-04.JPG" /></a><br /></center></div>
+
+
+;###### Floor 02
+;''''''%NUM%-INSIDE-02-01.jpg;~~~~~~<div style="width:270px;float:left"><center><strong>Floor 02 Inside </strong><br /><a href="http://www.flickr.com/search/?q=%NUM%-INSIDE-02-01&amp;w=93152031@N07"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/%NUM%-INSIDE-02-01.JPG" /></a><br /></center></div>
+;''''''%NUM%-INSIDE-02-02.jpg;~~~~~~<div style="width:270px;float:left"><center><strong>Floor 02 Inside </strong><br /><a href="http://www.flickr.com/search/?q=%NUM%-INSIDE-02-02&amp;w=93152031@N07"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/%NUM%-INSIDE-02-02.JPG" /></a><br /></center></div>
+;''''''%NUM%-INSIDE-02-03.jpg;~~~~~~<div style="width:270px;float:left"><center><strong>Floor 02 Inside </strong><br /><a href="http://www.flickr.com/search/?q=%NUM%-INSIDE-02-03&amp;w=93152031@N07"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/%NUM%-INSIDE-02-03.JPG" /></a><br /></center></div>
+;''''''%NUM%-INSIDE-02-04.jpg;~~~~~~<div style="width:270px;float:left"><center><strong>Floor 02 Inside </strong><br /><a href="http://www.flickr.com/search/?q=%NUM%-INSIDE-02-04&amp;w=93152031@N07"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/%NUM%-INSIDE-02-04.JPG" /></a><br /></center></div>
+
+;###### Floor 03
+;''''''%NUM%-INSIDE-03-01.jpg;~~~~~~<div style="width:270px;float:left"><center><strong>Floor 03 Inside </strong><br /><a href="http://www.flickr.com/search/?q=%NUM%-INSIDE-03-01&amp;w=93152031@N07"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/%NUM%-INSIDE-03-01.JPG" /></a><br /></center></div>
+;''''''%NUM%-INSIDE-03-02.jpg;~~~~~~<div style="width:270px;float:left"><center><strong>Floor 03 Inside </strong><br /><a href="http://www.flickr.com/search/?q=%NUM%-INSIDE-03-02&amp;w=93152031@N07"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/%NUM%-INSIDE-03-02.JPG" /></a><br /></center></div>
+;''''''%NUM%-INSIDE-03-03.jpg;~~~~~~<div style="width:270px;float:left"><center><strong>Floor 03 Inside </strong><br /><a href="http://www.flickr.com/search/?q=%NUM%-INSIDE-03-03&amp;w=93152031@N07"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/%NUM%-INSIDE-03-03.JPG" /></a><br /></center></div>
+;''''''%NUM%-INSIDE-03-04.jpg;~~~~~~<div style="width:270px;float:left"><center><strong>Floor 03 Inside </strong><br /><a href="http://www.flickr.com/search/?q=%NUM%-INSIDE-03-04&amp;w=93152031@N07"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/%NUM%-INSIDE-03-04.JPG" /></a><br /></center></div>
+
+;###### Floor 04
+;''''''%NUM%-INSIDE-04-01.jpg;~~~~~~<div style="width:270px;float:left"><center><strong>Floor 04 Inside </strong><br /><a href="http://www.flickr.com/search/?q=%NUM%-INSIDE-04-01&amp;w=93152031@N07"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/%NUM%-INSIDE-04-01.JPG" /></a><br /></center></div>
+;''''''%NUM%-INSIDE-04-02.jpg;~~~~~~<div style="width:270px;float:left"><center><strong>Floor 04 Inside </strong><br /><a href="http://www.flickr.com/search/?q=%NUM%-INSIDE-04-02&amp;w=93152031@N07"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/%NUM%-INSIDE-04-02.JPG" /></a><br /></center></div>
+;''''''%NUM%-INSIDE-04-03.jpg;~~~~~~<div style="width:270px;float:left"><center><strong>Floor 04 Inside </strong><br /><a href="http://www.flickr.com/search/?q=%NUM%-INSIDE-04-03&amp;w=93152031@N07"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/%NUM%-INSIDE-04-03.JPG" /></a><br /></center></div>
+;''''''%NUM%-INSIDE-04-04.jpg;~~~~~~<div style="width:270px;float:left"><center><strong>Floor 04 Inside </strong><br /><a href="http://www.flickr.com/search/?q=%NUM%-INSIDE-04-04&amp;w=93152031@N07"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/%NUM%-INSIDE-04-04.JPG" /></a><br /></center></div>
+
+;###### Floor 05
+;''''''%NUM%-INSIDE-05-01.jpg;~~~~~~<div style="width:270px;float:left"><center><strong>Floor 05 Inside </strong><br /><a href="http://www.flickr.com/search/?q=%NUM%-INSIDE-05-01&amp;w=93152031@N07"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/%NUM%-INSIDE-05-01.JPG" /></a><br /></center></div>
+;''''''%NUM%-INSIDE-05-02.jpg;~~~~~~<div style="width:270px;float:left"><center><strong>Floor 05 Inside </strong><br /><a href="http://www.flickr.com/search/?q=%NUM%-INSIDE-05-02&amp;w=93152031@N07"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/%NUM%-INSIDE-05-02.JPG" /></a><br /></center></div>
+;''''''%NUM%-INSIDE-05-03.jpg;~~~~~~<div style="width:270px;float:left"><center><strong>Floor 05 Inside </strong><br /><a href="http://www.flickr.com/search/?q=%NUM%-INSIDE-05-03&amp;w=93152031@N07"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/%NUM%-INSIDE-05-03.JPG" /></a><br /></center></div>
+;''''''%NUM%-INSIDE-05-04.jpg;~~~~~~<div style="width:270px;float:left"><center><strong>Floor 05 Inside </strong><br /><a href="http://www.flickr.com/search/?q=%NUM%-INSIDE-05-04&amp;w=93152031@N07"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/%NUM%-INSIDE-05-04.JPG" /></a><br /></center></div>
+
+;###### Floor 06
+;''''''%NUM%-INSIDE-06-01.jpg;~~~~~~<div style="width:270px;float:left"><center><strong>Floor 06 Inside </strong><br /><a href="http://www.flickr.com/search/?q=%NUM%-INSIDE-06-01&amp;w=93152031@N07"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/%NUM%-INSIDE-06-01.JPG" /></a><br /></center></div>
+;''''''%NUM%-INSIDE-06-02.jpg;~~~~~~<div style="width:270px;float:left"><center><strong>Floor 06 Inside </strong><br /><a href="http://www.flickr.com/search/?q=%NUM%-INSIDE-06-02&amp;w=93152031@N07"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/%NUM%-INSIDE-06-02.JPG" /></a><br /></center></div>
+;''''''%NUM%-INSIDE-06-03.jpg;~~~~~~<div style="width:270px;float:left"><center><strong>Floor 06 Inside </strong><br /><a href="http://www.flickr.com/search/?q=%NUM%-INSIDE-06-03&amp;w=93152031@N07"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/%NUM%-INSIDE-06-03.JPG" /></a><br /></center></div>
+;''''''%NUM%-INSIDE-06-04.jpg;~~~~~~<div style="width:270px;float:left"><center><strong>Floor 06 Inside </strong><br /><a href="http://www.flickr.com/search/?q=%NUM%-INSIDE-06-04&amp;w=93152031@N07"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/%NUM%-INSIDE-06-04.JPG" /></a><br /></center></div>
+
+;###### Floor 07
+;''''''%NUM%-INSIDE-07-01.jpg;~~~~~~<div style="width:270px;float:left"><center><strong>Floor 07 Inside </strong><br /><a href="http://www.flickr.com/search/?q=%NUM%-INSIDE-07-01&amp;w=93152031@N07"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/%NUM%-INSIDE-07-01.JPG" /></a><br /></center></div>
+;''''''%NUM%-INSIDE-07-02.jpg;~~~~~~<div style="width:270px;float:left"><center><strong>Floor 07 Inside </strong><br /><a href="http://www.flickr.com/search/?q=%NUM%-INSIDE-07-02&amp;w=93152031@N07"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/%NUM%-INSIDE-07-02.JPG" /></a><br /></center></div>
+;''''''%NUM%-INSIDE-07-03.jpg;~~~~~~<div style="width:270px;float:left"><center><strong>Floor 07 Inside </strong><br /><a href="http://www.flickr.com/search/?q=%NUM%-INSIDE-07-03&amp;w=93152031@N07"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/%NUM%-INSIDE-07-03.JPG" /></a><br /></center></div>
+;''''''%NUM%-INSIDE-07-04.jpg;~~~~~~<div style="width:270px;float:left"><center><strong>Floor 07 Inside </strong><br /><a href="http://www.flickr.com/search/?q=%NUM%-INSIDE-07-04&amp;w=93152031@N07"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/%NUM%-INSIDE-07-04.JPG" /></a><br /></center></div>
+
+;###### Floor 08
+;''''''%NUM%-INSIDE-08-01.jpg;~~~~~~<div style="width:270px;float:left"><center><strong>Floor 08 Inside </strong><br /><a href="http://www.flickr.com/search/?q=%NUM%-INSIDE-08-01&amp;w=93152031@N07"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/%NUM%-INSIDE-08-01.JPG" /></a><br /></center></div>
+;''''''%NUM%-INSIDE-08-02.jpg;~~~~~~<div style="width:270px;float:left"><center><strong>Floor 08 Inside </strong><br /><a href="http://www.flickr.com/search/?q=%NUM%-INSIDE-08-02&amp;w=93152031@N07"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/%NUM%-INSIDE-08-02.JPG" /></a><br /></center></div>
+;''''''%NUM%-INSIDE-08-03.jpg;~~~~~~<div style="width:270px;float:left"><center><strong>Floor 08 Inside </strong><br /><a href="http://www.flickr.com/search/?q=%NUM%-INSIDE-08-03&amp;w=93152031@N07"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/%NUM%-INSIDE-08-03.JPG" /></a><br /></center></div>
+;''''''%NUM%-INSIDE-08-04.jpg;~~~~~~<div style="width:270px;float:left"><center><strong>Floor 08 Inside </strong><br /><a href="http://www.flickr.com/search/?q=%NUM%-INSIDE-08-04&amp;w=93152031@N07"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/%NUM%-INSIDE-08-04.JPG" /></a><br /></center></div>
+
+;###### Floor 09
+;''''''%NUM%-INSIDE-09-01.jpg;~~~~~~<div style="width:270px;float:left"><center><strong>Floor 09 Inside </strong><br /><a href="http://www.flickr.com/search/?q=%NUM%-INSIDE-09-01&amp;w=93152031@N07"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/%NUM%-INSIDE-09-01.JPG" /></a><br /></center></div>
+;''''''%NUM%-INSIDE-09-02.jpg;~~~~~~<div style="width:270px;float:left"><center><strong>Floor 09 Inside </strong><br /><a href="http://www.flickr.com/search/?q=%NUM%-INSIDE-09-02&amp;w=93152031@N07"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/%NUM%-INSIDE-09-02.JPG" /></a><br /></center></div>
+;''''''%NUM%-INSIDE-09-03.jpg;~~~~~~<div style="width:270px;float:left"><center><strong>Floor 09 Inside </strong><br /><a href="http://www.flickr.com/search/?q=%NUM%-INSIDE-09-03&amp;w=93152031@N07"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/%NUM%-INSIDE-09-03.JPG" /></a><br /></center></div>
+;''''''%NUM%-INSIDE-09-04.jpg;~~~~~~<div style="width:270px;float:left"><center><strong>Floor 09 Inside </strong><br /><a href="http://www.flickr.com/search/?q=%NUM%-INSIDE-09-04&amp;w=93152031@N07"><img src="http://oomlout.com/oomlout-HQBS/HQBS-Photos/210/%NUM%-INSIDE-09-04.JPG" /></a><br /></center></div>
+
+
+
+
+
+
+</div>
+</td>
+</tr>
+</table>
+
+
+
+<br /><br /><center><strong>.:Want To Comment?:.</strong> <br /> .:Sorry comments aren't enabled, but please get in touch:. <br /> .: <strong> <a href="http://twitter.com/oomlout/">Twitter</a>    <a href="http://plus.google.com/+oomloutoomlout/">Google+</a>    <a href="http://facebook.com/oomlout.">Facebook</a>    <a href="http://oomlout.tumblr.com/">Tumblr</a>    <a href="mailto:formsubmission@oomlout.com">e-mail</a> :. </strong></center>

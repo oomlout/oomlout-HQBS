@@ -33,3 +33,20 @@ Embed:
 ;###### Get Latitude and Longitude
 
 http://itouchmap.com/latlong.html
+
+&&&&&&		Intro		&&&&&&
+
+	------ PAST ENTRIES ------
+	
+		-- EMSL -- 2009 --
+		-- Bunnie -- 2007 --
+		-- DP -- 2012
+		-- Electronics Shenzhen -- 2012
+		
+		
+	------ DISCLAIMER ------
+		Things move so fast won't be correct for even a month, but serves as a good snapshot in time.
+		
+&&&&&&		PAGE LAYOUT		&&&&&&
+
+		
