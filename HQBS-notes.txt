@@ -1,6 +1,9 @@
 ;######  HQBS Hua Qiang Bei Electronics Market Notes  ######
 ;###########################################################
 
+;###### Editing links
+
+
 ; ###### SEEED Studuio HQB Guide
 
 https://www.seeedstudio.com/blog/2013/09/03/shenzhen-map-for-makers/
@@ -48,5 +51,8 @@ http://itouchmap.com/latlong.html
 		Things move so fast won't be correct for even a month, but serves as a good snapshot in time.
 		
 &&&&&&		PAGE LAYOUT		&&&&&&
-
+	Main Page:  
+				https://oomlout.myshopify.com/admin/pages/14947221
+		View: 
+				http://oomlout.co.uk/pages/hqbs-huaqiangbeisystem-main
 		
