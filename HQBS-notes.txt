@@ -1,6 +1,11 @@
 ;######  HQBS Hua Qiang Bei Electronics Market Notes  ######
 ;###########################################################
 
+;###### TODO
+fix link to 09 missing
+maps engine app
+add stuff from 2014 visit
+
 ;###### Editing links
 
 
